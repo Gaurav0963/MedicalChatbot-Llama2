@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# CustomFiles
+my.py
+*.png
+icons/
+*.bin
+src/model.py
 # C extensions
 *.so
 

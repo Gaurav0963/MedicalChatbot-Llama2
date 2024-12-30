@@ -43,17 +43,17 @@ Download the Llama 2 Model: llama-2-7b-chat.ggmlv3.q4_0.bin from the following l
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
 ```
 
+Create Pinecone Index and upsert data (embedded vectors) to it, skip if already done.
 ```bash
-# run the following command
 python store_index.py
 ```
 
+Command to run Flask app:
 ```bash
-# Finally run the following command
 python app.py
 ```
 
-Now run following command in terminal:
+Now Flask app by running following command in terminal:
 ```bash
 localhost:8080
 ```

@@ -17,7 +17,6 @@ log.info("Getting credentials")
 if not os.getenv("PINECONE_API_KEY"):
     os.environ["PINECONE_API_KEY"] = getpass.getpass("Enter your Pinecone API key: ")
 pinecone_api_key = os.environ.get("PINECONE_API_KEY")
-# pinecone_api_key = os.environ.get("PINECONE_API_KEY")
 
 # Initialise the Pinecone
 log.info("Initialise the Pinecone")

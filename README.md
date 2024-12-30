@@ -32,7 +32,6 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
@@ -56,7 +55,7 @@ python app.py
 
 Now,
 ```bash
-open up localhost:
+open up localhost:8080
 ```
 
 

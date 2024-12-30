@@ -53,9 +53,9 @@ python store_index.py
 python app.py
 ```
 
-Now,
+Now run following command in terminal:
 ```bash
-open up localhost:8080
+localhost:8080
 ```
 
 

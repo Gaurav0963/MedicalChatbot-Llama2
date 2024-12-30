@@ -53,7 +53,7 @@ Command to run Flask app:
 python app.py
 ```
 
-Now Flask app by running following command in terminal:
+Now open Flask app by running following command in terminal:
 ```bash
 localhost:8080
 ```

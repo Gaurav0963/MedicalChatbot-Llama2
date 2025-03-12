@@ -3,6 +3,7 @@ pinecone-notebooks
 langchain_community
 langchain-huggingface
 langchain-text-splitters
+langchain-groq
 flask
 pypdf
 python-dotenv

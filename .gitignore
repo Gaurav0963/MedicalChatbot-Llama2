@@ -9,6 +9,14 @@ my.py
 icons/
 *.bin
 src/model.py
+Results/
+static/style1.css
+static/style2.css
+app[0-9].py
+app2.py
+*.pptx
+*.txt
+research/
 # C extensions
 *.so
 
